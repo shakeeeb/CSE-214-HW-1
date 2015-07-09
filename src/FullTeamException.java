@@ -1,6 +1,6 @@
 
 public class FullTeamException extends Exception {
-
+        /** blehhh */
 	public FullTeamException(){
 		super();
 	}
